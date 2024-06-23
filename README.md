@@ -22,3 +22,6 @@ Assignment 5:
 Assignment 6:
 - Use Gurobi to solve minig problem (*Model Building in Mathematical Programming* Chapter 12.7)
 - Use Gurobi to solve Dantzig's 42-city TSP problem
+
+Assignment 7:
+- Use Gurobi to solve maximum covering problem (implement Lagrangian relaxation)
