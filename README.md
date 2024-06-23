@@ -10,3 +10,7 @@ Assignment 2:
 
 Assignment 3:
 - K-opt algorithm for TSP
+
+Assignment 4:
+- Developing own algorithm for the maximum covering problem
+- My algorithm: An algorithm greedier than the greedy algorithm
