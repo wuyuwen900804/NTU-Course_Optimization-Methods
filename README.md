@@ -35,4 +35,4 @@ Assignment 9:
 
 Assignment 10:
 - Estimate the means of time-to-failure and number of functional components of the system time-to-failure problem
-- Compare the performance measures estimated using the simulation model developed and the values from the formulas of M/M/1 queues in the queueing theory.
+- Compare the performance measures from the simulation model with the M/M/1 queueing theory formulas
