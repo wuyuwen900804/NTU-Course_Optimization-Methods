@@ -36,3 +36,18 @@ Assignment 9:
 Assignment 10:
 - Estimate the means of time-to-failure and number of functional components of the system time-to-failure problem
 - Compare the performance measures from the simulation model with the M/M/1 queueing theory formulas
+
+Assignment 11:
+- Develop a stochastic discrete-event simulation model for the operation of a bus route
+
+Assignment 12:
+- Implement VRPTW heuristic algorithms introduced in Solomon (1987) and test them with the benchmark problems.
+  1. Savings Heuristics 
+  2. A Time-oriented, Nearest-Neighbor Heuristic
+  3. Insertion Heuristics using the first approach
+
+Assignment 13:
+- 
+
+Assignment 14:
+- 
