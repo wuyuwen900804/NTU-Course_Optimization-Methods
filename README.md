@@ -13,4 +13,8 @@ Assignment 3:
 
 Assignment 4:
 - Developing own algorithm for the maximum covering problem
-- My algorithm: An algorithm greedier than the greedy algorithm
+- My algorithm: An algorithm greedier than the original greedy algorithm
+
+Assignment 5:
+- Genetic algorithm for the maximum covering problem
+- Genetic algorithm for TSP
