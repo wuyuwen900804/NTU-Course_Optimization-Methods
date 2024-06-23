@@ -25,3 +25,10 @@ Assignment 6:
 
 Assignment 7:
 - Use Gurobi to solve maximum covering problem (implement Lagrangian relaxation)
+
+Assignment 8:
+- Build a simulation model for the system time-to-failure problem (using a variable tracking the number of functional components)
+
+Assignment 9:
+- Build a simulation model for an M/M/1 queuing system
+- Build a simulation model for the system time-to-failure problem (using “resource” class tracking the number of functional components)
