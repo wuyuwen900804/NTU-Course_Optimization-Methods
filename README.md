@@ -42,9 +42,10 @@ Assignment 11:
 
 Assignment 12:
 - Implement VRPTW heuristic algorithms introduced in Solomon (1987) and test them with the benchmark problems
-1. Savings Heuristics 
-2. A Time-oriented, Nearest-Neighbor Heuristic
-3. Insertion Heuristics using the first approach
+
+  1. Savings Heuristics 
+  2. A Time-oriented, Nearest-Neighbor Heuristic
+  3. Insertion Heuristics using the first approach
 
 Assignment 13:
 - 
