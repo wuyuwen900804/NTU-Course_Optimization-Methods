@@ -18,3 +18,7 @@ Assignment 4:
 Assignment 5:
 - Genetic algorithm for the maximum covering problem
 - Genetic algorithm for TSP
+
+Assignment 6:
+- Use Gurobi to solve minig problem (*Model Building in Mathematical Programming* Chapter 12.7)
+- Use Gurobi to solve Dantzig's 42-city TSP problem
