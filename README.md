@@ -32,3 +32,7 @@ Assignment 8:
 Assignment 9:
 - Build a simulation model for an M/M/1 queuing system
 - Build a simulation model for the system time-to-failure problem (using “resource” class tracking the number of functional components)
+
+Assignment 10:
+- Estimate the means of time-to-failure and number of functional components of the system time-to-failure problem
+- Compare the performance measures estimated using the simulation model developed and the values from the formulas of M/M/1 queues in the queueing theory.
